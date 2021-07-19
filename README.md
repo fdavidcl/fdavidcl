@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm currently a PhD student at University of Granada & [@ARI-DaSCI](https://github.com/ari-dasci). My research focuses on unsupervised deep learning architectures and their applications. My interests include data science, free culture, digital rights and (human and machine) languages, in no particular order. Here you will find the source code for most of my projects, including these featured ones:
+I'm currently a PhD student at University of Granada & [@ARI-DaSCI](https://github.com/ari-dasci). My research focuses on encoder-decoder deep learning architectures and their applications. My interests include data science, free culture, digital rights and (human and machine) languages, in no particular order. Here you will find the source code for most of my projects, including these featured ones:
 
 <!--
 **fdavidcl/fdavidcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
