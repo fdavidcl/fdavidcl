@@ -1,6 +1,13 @@
 ### Hi!
 
-I'm currently a PhD student at University of Granada & [@ARI-DaSCI](https://github.com/ari-dasci). My research focuses on encoder-decoder deep learning architectures and their applications. My interests include data science, free culture, digital rights and (human and machine) languages, in no particular order. Here you will find the source code for most of my projects, including these featured ones:
+I'm David (he/they). I'm currently a PhD student at University of Granada & [@ARI-DaSCI](https://github.com/ari-dasci), where my research focuses on encoder-decoder deep learning architectures and their applications. My interests include data science, free culture, digital rights and (human and machine) languages, in no particular order. You can also check out my:
+
+- [:mortar_board: Academic publications](https://scholar.google.com/citations?user=FRv_MwYAAAAJ&view_op=list_works&sortby=pubdate)
+- [:briefcase: Professional profile](https://linkedin.com/in/fdavidcl)
+- [:bust_in_silhouette: Personal website](https://deivi.ch)
+- [:bird: Tweets](https://twitter.com/fdavidcl)
+
+Here you will find the source code for most of my projects, including these featured ones:
 
 <!--
 **fdavidcl/fdavidcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
