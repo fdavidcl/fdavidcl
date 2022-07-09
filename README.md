@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm David (he/they). I'm currently a PhD student at University of Granada & [@ARI-DaSCI](https://github.com/ari-dasci), where my research focuses on encoder-decoder deep learning architectures and their applications. My interests include data science, free culture, digital rights and (human and machine) languages, in no particular order. You can also check out my:
+I'm David (he/they). I'm currently working on encoder-decoder deep learning architectures and their applications at University of Granada & [@ARI-DaSCI](https://github.com/ari-dasci). My interests include data science, free culture, digital rights and (human and machine) languages, in no particular order. You can also check out my:
 
 - [:mortar_board: Academic publications](https://scholar.google.com/citations?user=FRv_MwYAAAAJ&view_op=list_works&sortby=pubdate)
 - [:briefcase: Professional profile](https://linkedin.com/in/fdavidcl)
