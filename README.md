@@ -5,7 +5,7 @@ I'm David (he/they). I'm currently working on encoder-decoder deep learning arch
 - [:mortar_board: Academic publications](https://scholar.google.com/citations?user=FRv_MwYAAAAJ&view_op=list_works&sortby=pubdate)
 - [:briefcase: Professional profile](https://linkedin.com/in/fdavidcl)
 - [:bust_in_silhouette: Personal website](https://deivi.ch)
-- [:bird: Tweets](https://twitter.com/fdavidcl)
+- <a rel="me" href="https://toot.cafe/fdavidcl">:elephant: Mastodon</a>
 
 Here you will find the source code for most of my projects, including these featured ones:
 
