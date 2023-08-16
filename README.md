@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm David (he/they). I research and write software for encoder-decoder deep learning architectures and their applications. My interests include data science, open-source, maths and (human and machine) languages, in no particular order. You can also check out my:
+I'm David (he/they). I currently work as ML Engineer for [Idoven](https://idoven.ai). Previously, I did research and wrote software for encoder-decoder deep learning architectures and their applications. My interests include data science, open-source, maths and (human and machine) languages, in no particular order. You can also check out my:
 
 - [:mortar_board: Academic publications](https://scholar.google.com/citations?user=FRv_MwYAAAAJ&view_op=list_works&sortby=pubdate)
 - [:briefcase: Professional profile](https://linkedin.com/in/fdavidcl)
